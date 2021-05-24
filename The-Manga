@@ -1,0 +1,17 @@
+{
+  "title": "Azur Lane The Animation",
+  "description": "The Azur Lane is a military coalition formed by humankind to counter the Sirens from another world. However, The Iron Blood and The Sakura Empire withdrew themselves from the alliance due to disagreements on using the Sirens' technology. They formed the Red Axis and started a war against the Azur Lane which is still comprised of the Eagle Union and the Royal Navy.",
+  "artist": "ichinomi",
+  "author": "ichinomi",
+  "cover": "https://i.imgur.com/63WKvic.jpg",
+  "chapters": {
+    "01": {
+      "title": "Start Up, The Girls Gazing at the Azure",
+      "volume": "01",
+      "groups": {
+        "Skeleton Warriors": "/proxy/api/imgur/chapter/qO8Qu8z/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
